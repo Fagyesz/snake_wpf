@@ -1,4 +1,4 @@
 # snake_wpf
 
-Snake Game 
-(WPF)
+Snake Games 
+(WPF) and python
