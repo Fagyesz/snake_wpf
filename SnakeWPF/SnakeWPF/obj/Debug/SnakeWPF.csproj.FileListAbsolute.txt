@@ -1,0 +1,14 @@
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\bin\Debug\SnakeWPF.exe.config
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\bin\Debug\SnakeWPF.exe
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\bin\Debug\SnakeWPF.pdb
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF.csprojAssemblyReference.cache
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\View\SnakeView.baml
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\View\SnakeView.g.cs
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\App.g.cs
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF_MarkupCompile.cache
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF.g.resources
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF.Properties.Resources.resources
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF.csproj.GenerateResource.cache
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF.csproj.CoreCompileInputs.cache
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF.exe
+C:\Users\vincz\Downloads\SnakeWPF-master\SnakeWPF-master\SnakeWPF\obj\Debug\SnakeWPF.pdb
